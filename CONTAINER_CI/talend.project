@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_XEmmUTtvEemP-Y_DoEZlBQ" label="CONTAINER-CI" description="CONTAINER-CI" language="java" technicalLabel="CONTAINER_CI" author="_XEnNYDtvEemP-Y_DoEZlBQ" productVersion="Talend Cloud Data Management Platform-7.1.1.20181026_1147" url="{&quot;location&quot;:&quot;https://github.com/al1-pinault/container-ci.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_XIYTEDtvEemP-Y_DoEZlBQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_XEnNYDtvEemP-Y_DoEZlBQ" login="al1.pinault@trial18719.us.talend.com" firstName="Alain" lastName="Alain" type="DQ"/>
+</xmi:XMI>
